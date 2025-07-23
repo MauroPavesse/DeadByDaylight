@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "DeadByDaylight.API.Controllers.CategoriasController",
+    "Method": "Buscar",
+    "RelativePath": "api/Categorias/buscar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contract",
+        "Type": "DeadByDaylight.Application.DtosShared.SearchContract",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeadByDaylight.API.Controllers.RolesController",
+    "Method": "Buscar",
+    "RelativePath": "api/Roles/buscar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contract",
+        "Type": "DeadByDaylight.Application.DtosShared.SearchContract",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeadByDaylight.API.Controllers.VentajasController",
+    "Method": "Buscar",
+    "RelativePath": "api/Ventajas/buscar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contract",
+        "Type": "DeadByDaylight.Application.DtosShared.SearchContract",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

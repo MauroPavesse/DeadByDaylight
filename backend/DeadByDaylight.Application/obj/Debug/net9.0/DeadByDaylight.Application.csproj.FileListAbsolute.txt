@@ -1,0 +1,17 @@
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\bin\Debug\net9.0\DeadByDaylight.Application.deps.json
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\bin\Debug\net9.0\DeadByDaylight.Application.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\bin\Debug\net9.0\DeadByDaylight.Application.pdb
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\bin\Debug\net9.0\DeadByDaylight.Domain.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\bin\Debug\net9.0\DeadByDaylight.Infrastructure.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\bin\Debug\net9.0\DeadByDaylight.Domain.pdb
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\bin\Debug\net9.0\DeadByDaylight.Infrastructure.pdb
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\obj\Debug\net9.0\DeadByDaylight.Application.csproj.AssemblyReference.cache
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\obj\Debug\net9.0\DeadByDaylight.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\obj\Debug\net9.0\DeadByDaylight.Application.AssemblyInfoInputs.cache
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\obj\Debug\net9.0\DeadByDaylight.Application.AssemblyInfo.cs
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\obj\Debug\net9.0\DeadByDaylight.Application.csproj.CoreCompileInputs.cache
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\obj\Debug\net9.0\DeadByDa.F3A8791C.Up2Date
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\obj\Debug\net9.0\DeadByDaylight.Application.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\obj\Debug\net9.0\refint\DeadByDaylight.Application.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\obj\Debug\net9.0\DeadByDaylight.Application.pdb
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Application\obj\Debug\net9.0\ref\DeadByDaylight.Application.dll

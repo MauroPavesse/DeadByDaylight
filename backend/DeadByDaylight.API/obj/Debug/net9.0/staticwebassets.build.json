@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "D+XYnh0ilGmrWfMRrAJUxxhfrk/9kgTryHVzwPz5gU0=",
+  "Source": "DeadByDaylight.API",
+  "BasePath": "_content/DeadByDaylight.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

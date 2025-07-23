@@ -1,0 +1,15 @@
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\bin\Debug\net9.0\DeadByDaylight.Infrastructure.deps.json
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\bin\Debug\net9.0\DeadByDaylight.Infrastructure.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\bin\Debug\net9.0\DeadByDaylight.Infrastructure.pdb
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\bin\Debug\net9.0\DeadByDaylight.Domain.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\bin\Debug\net9.0\DeadByDaylight.Domain.pdb
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\obj\Debug\net9.0\DeadByDaylight.Infrastructure.csproj.AssemblyReference.cache
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\obj\Debug\net9.0\DeadByDaylight.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\obj\Debug\net9.0\DeadByDaylight.Infrastructure.AssemblyInfoInputs.cache
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\obj\Debug\net9.0\DeadByDaylight.Infrastructure.AssemblyInfo.cs
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\obj\Debug\net9.0\DeadByDaylight.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\obj\Debug\net9.0\DeadByDa.F253377F.Up2Date
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\obj\Debug\net9.0\DeadByDaylight.Infrastructure.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\obj\Debug\net9.0\refint\DeadByDaylight.Infrastructure.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\obj\Debug\net9.0\DeadByDaylight.Infrastructure.pdb
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Infrastructure\obj\Debug\net9.0\ref\DeadByDaylight.Infrastructure.dll

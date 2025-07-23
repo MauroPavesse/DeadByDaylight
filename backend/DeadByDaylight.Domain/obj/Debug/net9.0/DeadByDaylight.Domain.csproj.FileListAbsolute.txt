@@ -1,0 +1,11 @@
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\bin\Debug\net9.0\DeadByDaylight.Domain.deps.json
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\bin\Debug\net9.0\DeadByDaylight.Domain.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\bin\Debug\net9.0\DeadByDaylight.Domain.pdb
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\obj\Debug\net9.0\DeadByDaylight.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\obj\Debug\net9.0\DeadByDaylight.Domain.AssemblyInfoInputs.cache
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\obj\Debug\net9.0\DeadByDaylight.Domain.AssemblyInfo.cs
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\obj\Debug\net9.0\DeadByDaylight.Domain.csproj.CoreCompileInputs.cache
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\obj\Debug\net9.0\DeadByDaylight.Domain.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\obj\Debug\net9.0\refint\DeadByDaylight.Domain.dll
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\obj\Debug\net9.0\DeadByDaylight.Domain.pdb
+D:\MyMSystems\DeadByDaylight\backend\DeadByDaylight.Domain\obj\Debug\net9.0\ref\DeadByDaylight.Domain.dll
