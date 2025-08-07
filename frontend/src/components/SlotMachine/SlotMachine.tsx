@@ -1,30 +1,20 @@
 import React, { useEffect, useState } from 'react';
 import Rodillo from './Rodillo';
-import { useVentaja } from '../../context/VentajaContexto';
-import type { VentajaResponse } from '../../services/vantajaService';
+import ventajas from '../../data/ventajas.json';
 
 const SlotMachine: React.FC = () => {
   const rodillos = 4;
   const [symbols, setSymbols] = useState<string[]>(Array(rodillos).fill('❔'));
   const [spinning, setSpinning] = useState(false);
-  const { obtenerVentajas } = useVentaja();
-  const [peks, setPeks] = useState<VentajaResponse[]>([]);
+  const [peks, setPeks] = useState<typeof ventajas>([]);
 
   useEffect(() => {
-    const fetchVentajas = async () => {
-      try {
-        const data = await obtenerVentajas();
-        setPeks(data);
-      } catch (error) {
-        console.error('Error al obtener ventajas', error);
-      }
-    };
-    fetchVentajas();
+    setPeks(ventajas);
   }, []);
 
   const getRandomSymbol = (): string => {
     if (peks.length === 0) return '❔';
-    return peks[Math.floor(Math.random() * peks.length)].imagen;
+    return peks[Math.floor(Math.random() * peks.length)].Imagen;
   };
 
   const spin = () => {

@@ -1,12 +1,19 @@
 import React, { useEffect, useState } from 'react';
 import './Rodillo.css';
-import type { VentajaResponse } from '../../services/vantajaService';
+
+interface Ventaja {
+  Id: number;
+  Nombre: string;
+  Descripcion: string;
+  RolId: number;
+  Imagen: string;
+}
 
 interface RodilloProps {
   isSpinning: boolean;
   finalSymbol: string;
   delay: number;
-  peks: VentajaResponse[];
+  peks: Ventaja[];
 }
 
 const Rodillo: React.FC<RodilloProps> = ({ isSpinning, finalSymbol, delay, peks }) => {
@@ -19,7 +26,7 @@ const Rodillo: React.FC<RodilloProps> = ({ isSpinning, finalSymbol, delay, peks 
 
       const interval = setInterval(() => {
         const randoms = Array.from({ length: 20 }, () =>
-          peks[Math.floor(Math.random() * peks.length)].imagen
+          peks[Math.floor(Math.random() * peks.length)].Imagen
         );
         setCurrentSymbols(randoms);
       }, 100);
@@ -41,13 +48,13 @@ const Rodillo: React.FC<RodilloProps> = ({ isSpinning, finalSymbol, delay, peks 
     <div className="rodillo">
       <div className={`contenido ${stopped ? 'stopped' : 'spinning'}`}>
         {currentSymbols.map((symbol, i) => {
-          const ventaja = peks.find(p => p.imagen === symbol);
+          const ventaja = peks.find(p => p.Imagen === symbol);
           return (
             <div key={i} className="simbolo">
               <img
                 src={`/images/${symbol}`}
-                alt={ventaja?.nombre || 'símbolo'}
-                title={ventaja?.nombre || ''}
+                alt={ventaja?.Nombre || 'símbolo'}
+                title={ventaja?.Nombre || ''}
                 style={{ width: '60px', height: '60px', objectFit: 'contain' }}
               />
             </div>
